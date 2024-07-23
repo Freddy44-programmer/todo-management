@@ -4,10 +4,10 @@ This is a Todo Management API built with Spring Boot. It allows users to manage 
 
 
 Features
-Add a new todo
-Get a todo by ID
-Get all todos
-Update a todo
-Delete a todo
-Mark a todo as complete
-Mark a todo as incomplete
+1. Add a new todo
+2. Get a todo by ID
+3. Get all todos
+4. Update a todo
+5. Delete a todo
+6. Mark a todo as complete
+7. Mark a todo as incomplete
